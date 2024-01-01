@@ -1,5 +1,3 @@
----
-
 # Docker Compose Configuration
 
 ## `docker-compose.yml`
